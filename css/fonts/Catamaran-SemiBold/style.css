@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Catamaran';
+    src: local('Catamaran Semi Bold'), local('Catamaran-Semi-Bold'),
+        url('Catamaran-SemiBold.woff2') format('woff2'),
+        url('Catamaran-SemiBold.woff') format('woff'),
+        url('Catamaran-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
