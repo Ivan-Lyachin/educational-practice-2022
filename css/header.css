@@ -3,3 +3,6 @@ header {
   justify-content: center;
   align-items: center;
 }
+header-left {
+  align-items: center;
+}
