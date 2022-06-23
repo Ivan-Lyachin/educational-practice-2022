@@ -1,7 +1,25 @@
 body {
-  font-family: Catamaran, sans-serif;
-  font-weight: 900;
-  padding: 15px;
+  font-family: Catamaran;
+  font-weight: 600;
+  padding: 30px;
   max-width: 1920px;
-  justify-content: center;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+div.left {
+}
+div.center {
+  display: inline;
+}
+div.right {
+  display: inline;
+}
+#active_page {
+  background-image: url(/images/Rectangle\ 5.svg);
+}
+#appointment {
+  background-image: url(/images/Rectangle\ 1.svg);
 }
