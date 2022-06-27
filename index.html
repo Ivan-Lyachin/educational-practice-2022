@@ -4,30 +4,30 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Супер сайт</title>
+    <title>сайт</title>
     <link href="./css/reset.css" rel="stylesheet" />
     <link href="./css/normalize.css" rel="stylesheet" />
     <!--эти 2 файла нужны для правильного отображения стилей во всех браузерах-->
-    <link href="./css/fonts/Catamaran-Regular/" />
-    <link href="./css/fonts/Catamaran-SemiBold/" />
+    <link href="./css/fonts/Catamaran-Regular/style.css" />
     <link href="./css/base.css" rel="stylesheet" />
+    <link href="./css/header.css" rel="stylesheet" />
   </head>
   <body>
-   <!-- ОТСТУПЫ СДЕЛАТЬ В ПРОЦЕНТАХ -->
-    <header>
-      <div class="left", ><img src="./images/scissors 1.svg" /> <p id="Name">arber</p> </div>
-      <div class="center">
-        <ul class="center">
-          <li id="active_page"><a href="#">Home   </a></li>
-          <li><a href="#">History</a></li>
-          <li><a href="#">Service</a></li>
-          <li><a href="#">Gallary</a></li>
-      </div>
-      <div class="right">
-        <img src="./images/human 1.svg" /> <img src="./images/human 2.svg" />
-        <img src="./images/bell 1.svg" /> <img src="./images/bell 2.svg" />
-        <img src="./images/bell 3.svg" /> <p id="appointment"> Appointment</p>
-      </div>
+   <!-- ОТСТУПЫ СДЕЛАТЬ В ПРОЦЕНТАХ --> 
+    <header class="header">
+        <div class="header__scissors" ><img src="./images/Group100.svg"> </div>
+        <div >
+         <ul class="header__items">
+            <li><a href="#" id="active_page">Home   </a></li>
+            <li><a href="#">History</a></li>
+            <li><a href="#">Service</a></li>
+            <li><a href="#">Gallary</a></li>
+        </div>
+       <div class="header__item">
+          <img src="./images/Profile 1.svg">
+          <img src="./images/Notification 1.svg">
+         <div class="header__profile">Appointment</div>
+       </div>
     </header>
   </body>
 </html>

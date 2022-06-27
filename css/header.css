@@ -1,36 +1,45 @@
-header {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+.header__scissors {
+  margin-left: 170px;
+}
+.header__items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 48px;
+
   font-family: "Catamaran";
-  font-weight: 900;
+  font-style: normal;
+  font-weight: 500;
   font-size: 25px;
-  padding: 20px;
-  max-width: 1920px;
-}
-div.left {
-  display: inline-flex;
-  color: #99baed;
-  font-size: 40px;
-}
-div.center {
-  display: inline;
+  line-height: 133.6%;
+  /* or 33px */
+  margin-right: 500px;
+
   color: #163561;
-  text-decoration: none;
-}
-div.right {
-  display: inline-flex;
-}
-#Name {
-  position: absolute;
-  top: 70px;
-  left: 90px;
 }
 #active_page {
-  background-image: url(/images/Rectangle\ 5.svg);
+  background: #a3c1ef;
+  border-radius: 5px;
   color: #ffffff;
 }
-#appointment {
-  background-image: url(/images/Rectangle\ 1.svg);
+.header__item {
+  margin-right: 213px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 48px;
+}
+.header__profile {
+  width: 178px;
+  height: 76px;
+  background: #99baed;
+  border-radius: 20px;
+  line-height: 76px;
+  text-align: center;
   color: #ffffff;
 }

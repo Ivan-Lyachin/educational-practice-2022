@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+div.left {
+  display: inline-flex;
+  color: #99baed;
+  font-size: 40px;
+}
+div.center {
+  display: inline;
+  color: #163561;
+  text-decoration: none;
+}
+div.right {
+  display: inline-flex;
+}
+#Name {
+  position: absolute;
+  top: 70px;
+  left: 90px;
+}
+#active_page {
+  background-image: url(/images/Rectangle\ 5.svg);
+  color: #ffffff;
+}
+#appointment {
+  background-image: url(/images/Rectangle\ 1.svg);
+  color: #ffffff;
+}
