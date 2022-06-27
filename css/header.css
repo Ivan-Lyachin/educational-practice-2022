@@ -1,0 +1,36 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Catamaran";
+  font-weight: 900;
+  font-size: 25px;
+  padding: 20px;
+  max-width: 1920px;
+}
+div.left {
+  display: inline-flex;
+  color: #99baed;
+  font-size: 40px;
+}
+div.center {
+  display: inline;
+  color: #163561;
+  text-decoration: none;
+}
+div.right {
+  display: inline-flex;
+}
+#Name {
+  position: absolute;
+  top: 70px;
+  left: 90px;
+}
+#active_page {
+  background-image: url(/images/Rectangle\ 5.svg);
+  color: #ffffff;
+}
+#appointment {
+  background-image: url(/images/Rectangle\ 1.svg);
+  color: #ffffff;
+}
