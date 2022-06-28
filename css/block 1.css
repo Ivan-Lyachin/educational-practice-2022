@@ -1,0 +1,41 @@
+.block1 {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.block1__image {
+  align-self: flex-start;
+  order: 1;
+  margin-left: auto;
+  margin-top: 50px;
+}
+.block1__word {
+  margin-left: 188px;
+  margin-top: 160px;
+}
+.block1__text2 {
+  margin-top: 50px;
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150.6%;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.block1__text3 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 75px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  background: #99baed;
+  border-radius: 20px;
+  width: 188px;
+  height: 75px;
+  color: #ffffff;
+  margin-top: 97px;
+}

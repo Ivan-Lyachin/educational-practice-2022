@@ -24,14 +24,20 @@
 
   color: #163561;
 }
-#active_page {
-  height: 100px;
+ul > li:nth-child(1) {
   background: #a3c1ef;
   border-radius: 5px;
   color: #ffffff;
-  display: inline-block;
-  justify-self: end;
+  margin-top: -50px;
+  height: 80px;
+  width: 100px;
 }
+#active_page {
+  height: 100px;
+  display: inline-block;
+  margin-top: 55px;
+}
+
 .header__item {
   margin-right: 213px;
   display: flex;

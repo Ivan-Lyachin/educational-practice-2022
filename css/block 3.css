@@ -1,0 +1,126 @@
+.block3 {
+  margin-top: 136px;
+  display: flex;
+  justify-content: space-between;
+}
+.block3_icons {
+  margin-top: 83px;
+  display: flex;
+  flex-direction: row;
+}
+.block3__item1 {
+  margin-top: 81px;
+  width: 441px;
+  height: 553px;
+  background: #99baed;
+  border-radius: 29px;
+  display: flex;
+}
+.block3__image1 {
+  justify-self: center;
+  align-self: center;
+}
+.block3__bg1 {
+  width: 103px;
+  height: 126px;
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.block3__text1 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 116.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.block3__text2 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  opacity: 0.65;
+}
+.block3__item2 {
+  margin-top: 81px;
+  width: 441px;
+  height: 553px;
+  background: #99baed;
+  border-radius: 29px;
+  display: flex;
+}
+.block3__image2 {
+}
+.block3__bg2 {
+  width: 103px;
+  height: 126px;
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.block3__text3 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 116.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #163561;
+}
+.block3__text4 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
+.block3__item3 {
+  margin-top: 81px;
+  width: 441px;
+  height: 553px;
+  background: #99baed;
+  border-radius: 29px;
+  display: flex;
+}
+.block3__image3 {
+}
+.block3__bg3 {
+  width: 103px;
+  height: 126px;
+  background: #e5ecfe;
+  box-shadow: 0px 1px 0px #008fdd;
+  border-radius: 13px;
+}
+.block3__text5 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 116.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #163561;
+}
+.block3__text6 {
+  font-family: "Catamaran";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 150.6%;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #153461;
+  opacity: 0.65;
+}
