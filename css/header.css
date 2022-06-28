@@ -7,25 +7,30 @@
   margin-left: 170px;
 }
 .header__items {
+  width: 93px;
+  min-height: 138px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   column-gap: 48px;
 
-  font-family: "Катамаран";
+  font-family: "Catamaran";
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 25px;
   line-height: 133.6%;
   /* or 33px */
-  margin-right: 500px;
+  margin-right: 600px;
 
   color: #163561;
 }
 #active_page {
+  height: 100px;
   background: #a3c1ef;
   border-radius: 5px;
   color: #ffffff;
+  display: inline-block;
+  justify-self: end;
 }
 .header__item {
   margin-right: 213px;
