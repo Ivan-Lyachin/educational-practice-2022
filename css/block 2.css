@@ -1,4 +1,5 @@
 .block2 {
+  margin-left: 20px;
   display: inline-flex;
   justify-content: space-between;
 }
@@ -7,21 +8,20 @@
   order: -10;
 }
 .block2__vector2 {
-  margin-left: -50px;
+  margin-left: -150px;
   order: 10;
 }
 .block2__image {
   margin-top: 226px;
-  margin-left: -149px;
+  margin-left: -129px;
   order: 0;
 }
 .block2_word {
-  margin-left: 149px;
+  margin-left: 19px;
   min-width: 400px;
   margin-top: 328px;
 }
 .block2__text2 {
-
   margin-top: 80px;
   font-family: "Catamaran";
   font-style: normal;

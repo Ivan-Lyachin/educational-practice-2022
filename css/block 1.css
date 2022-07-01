@@ -7,12 +7,12 @@
 .block1__image {
   align-self: flex-start;
   order: 1;
-  margin-left: 0;
+  margin-left: -90px;
   margin-top: 50px;
 }
 .block1__word {
   min-width: 590px;
-  margin-left: 188px;
+  margin-left: 170px;
   margin-top: 160px;
 }
 .block1__text2 {
